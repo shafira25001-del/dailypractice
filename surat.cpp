@@ -1,9 +1,9 @@
 /*
-Nama Program :
-Nama         :
-NPM          :
-Tanggal Buat :
-Deskripsi    :
+Nama Program : surat
+Nama         : Shafira Nailah Afifah
+NPM          : 140810250008
+Tanggal Buat : 11 November 2025
+Deskripsi    : surat
 */
 
 #include<iostream>
@@ -37,3 +37,4 @@ int main(){
     tampilkanData(temp);
 
 }
+
